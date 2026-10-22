@@ -1,4 +1,4 @@
-# You vs. the Machine — The Reading Race
+# You vs. the Machine - The Reading Race
 
 An offline-friendly, zero-dependency, single-page interactive thought experiment about human reading volume and published LLM pretraining-token counts.
 
@@ -21,7 +21,7 @@ Open `index.html` in any modern browser. No build step is required.
 
 `years = equivalent_words / annual_words`
 
-`lifetimes = years / 80`
+`lifetimes = years / 100...figure we will live longer`
 
 This estimates amount of *token exposure*, **not** unique material, comprehension, or memory. The token-to-word rate is an approximation for English text and is not a proper universal conversion of multimodal training data.
 
